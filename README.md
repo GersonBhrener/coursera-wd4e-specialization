@@ -23,7 +23,7 @@
 </p>
 
 <p>
-  <i>Esta especialização envolve como escrever sintaticamente em HTML5 e CSS3 e como criar experiências web interativas com Javascript. Dominar esta variedade de tecnologias irá te fazer desenvolver websites de alta qualidade que trabalharão perfeitamente em navegadores acessíveis de celulares, tablets e grandes telas. Ao longo do projeto final irá desenvolver um web portfolio profissional demonstrando seu crescimento como desenvolvedor web e conhecimento em webdesign acessível. Este abrangerá sua habilidade de design e implementação de um site responsivo utilizando ferramentas para criar um que será acessível ao grande público, incluindo aqueles com deficiências visuais, auditivas, físicas e cognitivas.</i>
+  <i>Esta especialização envolve como escrever correta e sintaticamente em HTML5 e CSS3 e criar experiências web interativas com Javascript. Dominar esta variedade de tecnologias irá te fazer desenvolver websites de alta qualidade que trabalharão perfeitamente em navegadores acessíveis de celulares, tablets e grandes telas. Ao longo do projeto final irá desenvolver um web portfolio profissional demonstrando seu crescimento como desenvolvedor web e conhecimento em webdesign acessível. Este abrangerá sua habilidade de design e implementação de um site responsivo utilizando ferramentas para criar um que será acessível ao grande público, incluindo aqueles com deficiências visuais, auditivas, físicas e cognitivas.</i>
 </p>    
 
 <hr/>
