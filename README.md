@@ -31,5 +31,5 @@
 <h3>:clipboard: Courses (Cursos):
 
 <h4>
-  :one:: Introduction to HTML5 (Introdução ao HTML5) :link:
+  :one:: <a href="https://www.coursera.org/learn/html" title="Coursera - Introduction to HTML5">Introduction to HTML5 (Introdução ao HTML5)</a> :link:
 </h4>
