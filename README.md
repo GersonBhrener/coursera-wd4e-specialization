@@ -31,5 +31,5 @@
 <h3>:pencil2: Courses (Cursos):
 
 <h4>
-  :one:: <a href="https://www.coursera.org/learn/html" title="Coursera - Introduction to HTML5">Introduction to HTML5 (Introdução ao HTML5)</a> :link:
+  :one:: <a href="https://www.coursera.org/learn/html" title="Coursera - Introduction to HTML5" target="_blank">Introduction to HTML5 (Introdução ao HTML5)</a> :link:
 </h4>
