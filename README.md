@@ -31,5 +31,11 @@
 <h3>:pencil2: Courses (Cursos):
 
 <h4>
-  :one:: <a href="https://www.coursera.org/learn/html" title="Coursera - Introduction to HTML5" target="_blank">Introduction to HTML5 (Introdução ao HTML5)</a> :link:
+  :one:: <a href="https://www.coursera.org/learn/html">Introduction to HTML5 (Introdução ao HTML5)</a> :link:
 </h4>
+
+<ul>
+    <li><a href="https://github.com/GersonBhrener/coursera-wd4e-specialization/tree/main/01-introduction-to-html5/01-week-one">Week 01 (Semana 01)</a></li>
+    <li><a href="https://github.com/GersonBhrener/coursera-wd4e-specialization/tree/main/01-introduction-to-html5/02-week-two">Week 02 (Semana 02)</a></li>
+    <li><a href="https://github.com/GersonBhrener/coursera-wd4e-specialization/tree/main/01-introduction-to-html5/03-week-three">Week 03 (Semana 03)</a></li>
+</ul>
