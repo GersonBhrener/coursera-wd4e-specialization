@@ -39,3 +39,7 @@
     <li><a href="https://github.com/GersonBhrener/coursera-wd4e-specialization/tree/main/01-introduction-to-html5/02-week-two">Week 02 (Semana 02)</a></li>
     <li><a href="https://github.com/GersonBhrener/coursera-wd4e-specialization/tree/main/01-introduction-to-html5/03-week-three">Week 03 (Semana 03)</a></li>
 </ul>
+
+<h4>
+  :two:: <a href="https://www.coursera.org/learn/introcss?specialization=web-design">Introduction to CSS3 (Introdução ao CSS3)</a> :link:
+</h4>
