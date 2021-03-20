@@ -1,0 +1,25 @@
+header{
+	background-color: #A38950
+}
+
+h1{
+	text-align: center;
+	color: #EDE5CF;
+}
+
+h2{
+	color: #A37E2D;
+}
+
+section{
+	background-color: #EDE5CF;
+}
+
+a{
+	color: #703104;
+	background-color: #EDE5CF;
+}
+
+img{
+	display: none;
+}
