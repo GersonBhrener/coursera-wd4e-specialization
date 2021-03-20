@@ -1,0 +1,33 @@
+/*Take out the comments around each rule.
+
+Try changing the display property*/
+span{
+     background-color: red;
+     display: inline;
+     float: left;
+     clear: right;
+     margin: 0%;
+     margin-right: 1%;
+}
+
+div{
+       width: 15%;
+       height: 50px;
+       margin-left: 1%;
+       display: block;
+       float: right;
+       background-color: green;
+/*         overflow:scroll; */
+}
+
+p{
+		  background-color: yellow;
+		  clear: right;
+/*       padding: 25px; */
+}
+
+hr{
+	clear: both;
+}
+
+     
