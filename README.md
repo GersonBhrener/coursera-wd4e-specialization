@@ -43,3 +43,7 @@
 <h4>
   :two:: <a href="https://www.coursera.org/learn/introcss?specialization=web-design">Introduction to CSS3 (Introdução ao CSS3)</a> :link:
 </h4>
+
+<ul>
+    <li><a href="https://github.com/GersonBhrener/coursera-wd4e-specialization/tree/main/02-introduction-to-css3/01-week-one">Week 01 (Semana 01)</a></li>
+</ul>
