@@ -1,0 +1,47 @@
+:root{
+  --separate-border: 1.5px black solid;
+}
+
+
+p{
+  text-align: center;
+}
+
+body{
+  box-sizing: border-box;
+  margin: 4%;
+}
+
+header{
+  padding: 1%;
+  text-align: center;
+  clear: both;
+  border-bottom: var(--separate-border);
+}
+
+section{
+  display: inline-block;
+  width: 30.1%;
+  float: left;
+  margin: 1% 1.5%;
+  font-size: 14px;
+}
+
+.fav-foods, .achievements{
+    border-right: var(--separate-border);
+}
+
+.achievements, .about-me{
+  height: 139.51px;
+}
+
+footer{
+  clear: both;
+  margin-top: 1%;
+  border-top: var(--separate-border)
+}
+
+img{
+  width: 200px;
+  display: inline;
+}
