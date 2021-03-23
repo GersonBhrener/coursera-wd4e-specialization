@@ -1,0 +1,29 @@
+a {
+    display: block;
+    font-weight: bold;
+    color: #ffffff;
+    background: #0006CC;
+    width: 200px;
+    text-align: center;
+    padding: 4px;
+    text-decoration: none;
+    margin:0 auto;  /*Centers the element*/
+    margin-top: 10px;
+}
+
+/*When mouse hovers over link*/
+a:hover{  
+    background: #4DDBC6;
+    color: #678F89;
+}
+
+/*When user tabs to this link*/
+a:focus{ 
+    background: #76A898;
+    color: #255C4A;
+}
+
+/*When user clicks and holds mouse button on this link*/
+a:active{ 
+    border: 3px solid #000000;
+}
