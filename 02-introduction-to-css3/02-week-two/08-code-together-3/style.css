@@ -1,0 +1,73 @@
+:root{
+  --color: #EBECED;
+  --hd-ft-bg: #9FA0A1;
+  --separate-border: 1.5px black solid;
+}
+
+
+p{
+  text-align: center;
+}
+
+body{
+  background-color: var(--color);
+  box-sizing: border-box;
+  margin: 4%;
+}
+
+header, footer{
+  background: #666666;
+  background: -moz-linear-gradient(top, #666666 0%, #00b7ea 100%);
+  background: -webkit-linear-gradient(#666666 0%, #00b7ea 100%);
+  background: -o-linear-gradient(#666666 0%, #00b7ea 100%);
+  background: linear-gradient(#666666 0%, #00b7ea 100%); 
+  clear: both;
+  color: var(--color);
+  padding: 1%;
+  text-align: center;
+}
+
+/*header, footer{
+  background-color: var(--hd-ft-bg);
+  clear: both;
+  color: var(--color);
+  padding: 1%;
+  text-align: center;
+}
+*/
+
+nav a{
+  color: var(--color);
+}
+
+section{
+  display: inline-block;
+  float: left;
+  font-size: 14px;
+  margin: 1% 1.5%;
+  width: 45%;
+}
+
+.fav-foods, .achievements{
+    border-right: var(--separate-border);
+}
+
+.achievements, .about-me{
+  height: 139.51px;
+}
+
+.about-me{
+  clear: both;
+  border-top: var(--separate-border);
+  width: 100%
+}
+
+footer{
+  margin-top: 1%;
+}
+
+
+img{
+  display: inline-block;
+  width: 200px;
+}
