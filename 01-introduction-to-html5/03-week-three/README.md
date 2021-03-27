@@ -9,6 +9,16 @@
 
 <hr>
 
+<h3>Topics (Assuntos abordados)</h3>
+    <ul>
+    <li>Identify different hosting platforms (without necessarily using them) - Identificar diferentes plataformas de hospedagem (sem utilizá-las)</li>
+    <li>Use a validator to evaluate their code (Utilizar validador de código)</li>
+    <li>Evaluate the HTML code of their peers (Avaliar o código de seus colegas)</li>
+    <li>Create a syntactially correct HTML page (Criar uma página HTML sintaticamente correta)</li>
+    </ul>
+
+<hr>
+
 <h3>Final Project Description</h3>
     <p> Your final project is to create a web page that matches the example given here.  Your page must match mine exactly other than the title and any parts that have been highlighted in yellow.  (If you would like to open this image in a separate window you can find it <a href="http://www.intro-webdesign.com/HTML5/HTML5project.png">here</a>.  If you need help with this content due to difficulties accessing the text, you can find a textual description of the image below at http://intro-webdesign.com/projectdescription.html.)
 
