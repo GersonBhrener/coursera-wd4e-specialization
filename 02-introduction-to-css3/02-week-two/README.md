@@ -1,4 +1,4 @@
-<h1 align="center">Week Two - Semana 02</h1>
+<h2 align="center">Week Two - Semana 02</h2>
 
 <ul>
     <li>
