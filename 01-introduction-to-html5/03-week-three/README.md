@@ -21,4 +21,7 @@
 
 <h3>Final Project Description</h3>
     <p> Your final project is to create a web page that matches the example given here.  Your page must match mine exactly other than the title and any parts that have been highlighted in yellow.  (If you would like to open this image in a separate window you can find it <a href="http://www.intro-webdesign.com/HTML5/HTML5project.png">here</a>.  If you need help with this content due to difficulties accessing the text, you can find a textual description of the image below at http://intro-webdesign.com/projectdescription.html.)
+    </p>
+    <p><em>Seu projeto final é criar uma página da web que corresponda ao exemplo dado aqui. Sua página deve corresponder à minha exatamente diferente do título e de todas as partes destacadas em amarelo. (Se desejar abrir esta imagem em uma janela separada, você pode encontrá-la <a href="http://www.intro-webdesign.com/HTML5/HTML5project.png"> aqui </a>. Se precisar ajuda com este conteúdo devido a dificuldades de acesso ao texto, você pode encontrar uma descrição textual da imagem abaixo em http://intro-webdesign.com/projectdescription.html.)
+    </em></p>
 
