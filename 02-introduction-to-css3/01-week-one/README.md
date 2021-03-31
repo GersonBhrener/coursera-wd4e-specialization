@@ -19,3 +19,9 @@
     <li>Font and Text Styles (Estilos de fonte e texto)</li>
     <li>Display, float, clear, overflow</li>
   </ul>
+
+<hr>
+
+<h3>Code (Código)</h3>
+    <p>Code provided by teacher Collen van Lent: http://codepen.io/collection/noEQed/</p>
+    <p>CSS edited by Gerson Bhrener</p>
