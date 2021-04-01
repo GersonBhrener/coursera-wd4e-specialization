@@ -48,3 +48,10 @@
     <li>Prefixes (Prefixos)</li>
     <li>Not-supported properties (Propriedades não-suportadas)</li>
   </ul>
+  
+  
+<hr>
+
+<h3>Code (Código)</h3>
+    <p>Code provided by teacher Collen van Lent: http://codepen.io/collection/noEQed/</p>
+    <p>CSS edited by Gerson Bhrener</p>
