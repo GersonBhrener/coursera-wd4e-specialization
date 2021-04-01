@@ -47,4 +47,5 @@
 <ul>
     <li><a href="https://github.com/GersonBhrener/coursera-wd4e-specialization/tree/main/02-introduction-to-css3/01-week-one">Week 01 (Semana 01)</a></li>
     <li><a href="https://github.com/GersonBhrener/coursera-wd4e-specialization/tree/main/02-introduction-to-css3/02-week-two">Week 02 (Semana 02)</a></li>
+    <li><a href="">Week 03 (Semana 03)</a></li>
 </ul>
