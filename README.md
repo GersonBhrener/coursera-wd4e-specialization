@@ -30,9 +30,9 @@
 
 <h3>:pencil2: Courses (Cursos):
 
-<h4>
+<h3>
   :one:: <a href="https://www.coursera.org/learn/html">Introduction to HTML5 (Introdução ao HTML5)</a> :link:
-</h4>
+</h3>
 
 <ul>
     <li><a href="https://github.com/GersonBhrener/coursera-wd4e-specialization/tree/main/01-introduction-to-html5/01-week-one">Week 01 (Semana 01)</a></li>
@@ -40,9 +40,15 @@
     <li><a href="https://github.com/GersonBhrener/coursera-wd4e-specialization/tree/main/01-introduction-to-html5/03-week-three">Week 03 (Semana 03)</a></li>
 </ul>
 
-<h4>
+<h4 align="center"><b>:heavy_check_mark:HTML5 FINAL PROJECT:heavy_check_mark:</b></h4>
+
+![Imgur](https://i.imgur.com/8qRjqtXl.png)
+
+<hr>
+
+<h3>
   :two:: <a href="https://www.coursera.org/learn/introcss?specialization=web-design">Introduction to CSS3 (Introdução ao CSS3)</a> :link:
-</h4>
+</h3>
 
 <ul>
     <li><a href="https://github.com/GersonBhrener/coursera-wd4e-specialization/tree/main/02-introduction-to-css3/01-week-one">Week 01 (Semana 01)</a></li>
@@ -50,3 +56,7 @@
     <li><a href="https://github.com/GersonBhrener/coursera-wd4e-specialization/tree/main/02-introduction-to-css3/03-week-three">Week 03 (Semana 03)</a></li>
     <li><a href="">Week 04 (Semana 04)</a></li>
 </ul>
+
+<h4 align="center"><b>:heavy_check_mark:CSS3 FINAL PROJECT:heavy_check_mark:</b></h4>
+
+![Imgur](https://i.imgur.com/B2yOPbBl.png)
