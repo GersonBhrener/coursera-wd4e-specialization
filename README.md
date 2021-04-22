@@ -40,7 +40,7 @@
     <li><a href="https://github.com/GersonBhrener/coursera-wd4e-specialization/tree/main/01-introduction-to-html5/03-week-three">Week 03 (Semana 03)</a></li>
 </ul>
 
-<h4 align="center"><b>:heavy_check_mark:HTML5 FINAL PROJECT:heavy_check_mark:</b></h4>
+<h4 align="center"><b>:heavy_check_mark:<a href="https://codepen.io/gersonbhrener/pen/GRrwXed">HTML5 FINAL PROJECT</a>:heavy_check_mark:</b></h4>
 
 ![Imgur](https://i.imgur.com/8qRjqtXl.png)
 
@@ -57,6 +57,6 @@
     <li><a href="https://github.com/GersonBhrener/coursera-wd4e-specialization/tree/main/02-introduction-to-css3/04-week-four">Week 04 (Semana 04)</a></li>
 </ul>
 
-<h4 align="center"><b>:heavy_check_mark:CSS3 FINAL PROJECT:heavy_check_mark:</b></h4>
+<h4 align="center"><b>:heavy_check_mark:<a href="https://codepen.io/gersonbhrener/project/editor/AwpKkn">CSS3 FINAL PROJECT</a>:heavy_check_mark:</b></h4>
 
 ![Imgur](https://i.imgur.com/B2yOPbBl.png)
