@@ -1,6 +1,6 @@
 
 <h1 align="center">
-    Web Design for Everybody Specialization
+    Coursera/Michigan University<br>Web Design for Everybody Specialization
 </h1>
 
 <h2 align="center">
